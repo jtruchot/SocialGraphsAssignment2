@@ -1,0 +1,1 @@
+{'62028338': {'pageid': 62028338, 'ns': 0, 'title': 'Speed (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Speed (character)]]\n\n{{R from move}}'}]}}

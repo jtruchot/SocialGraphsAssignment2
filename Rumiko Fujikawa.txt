@@ -1,0 +1,1 @@
+{'8514147': {'pageid': 8514147, 'ns': 0, 'title': 'Rumiko Fujikawa', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Iron Man supporting characters]]'}]}}

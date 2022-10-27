@@ -1,0 +1,1 @@
+{'65084793': {'pageid': 65084793, 'ns': 0, 'title': 'Knull (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Knull (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

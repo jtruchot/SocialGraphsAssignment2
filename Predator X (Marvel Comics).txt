@@ -1,0 +1,1 @@
+{'25273701': {'pageid': 25273701, 'ns': 0, 'title': 'Predator X (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Predator X (character)]]\n\n{{Redirect category shell|\n{{R from unnecessary disambiguation}}\n}}'}]}}

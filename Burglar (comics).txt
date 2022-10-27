@@ -1,0 +1,1 @@
+{'69558338': {'pageid': 69558338, 'ns': 0, 'title': 'Burglar (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Burglar (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

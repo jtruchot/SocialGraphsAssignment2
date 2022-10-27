@@ -1,0 +1,1 @@
+{'5857695': {'pageid': 5857695, 'ns': 0, 'title': 'Locust (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Hulk supporting characters]]'}]}}

@@ -1,0 +1,1 @@
+{'61710084': {'pageid': 61710084, 'ns': 0, 'title': 'Dirtnap (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of X-Men enemies]]\n\n{{Redirect category shell|\n{{R from fictional character|X-Men}}\n}}'}]}}

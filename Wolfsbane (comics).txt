@@ -1,0 +1,1 @@
+{'70144695': {'pageid': 70144695, 'ns': 0, 'title': 'Wolfsbane (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Wolfsbane (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'44416096': {'pageid': 44416096, 'ns': 0, 'title': 'Joker (DC Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Joker (character)]]\n\n{{Redirect category shell|\n{{R from unnecessary disambiguation}}\n}}'}]}}

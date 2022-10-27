@@ -1,0 +1,1 @@
+{'10238098': {'pageid': 10238098, 'ns': 0, 'title': 'Brainchild (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Savage Land Mutates]]'}]}}

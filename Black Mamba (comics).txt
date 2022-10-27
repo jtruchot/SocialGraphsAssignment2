@@ -1,0 +1,1 @@
+{'66044493': {'pageid': 66044493, 'ns': 0, 'title': 'Black Mamba (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Black Mamba (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

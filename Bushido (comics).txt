@@ -1,0 +1,1 @@
+{'65133241': {'pageid': 65133241, 'ns': 0, 'title': 'Bushido (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Bushido (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

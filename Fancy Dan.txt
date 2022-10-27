@@ -1,0 +1,1 @@
+{'8685740': {'pageid': 8685740, 'ns': 0, 'title': 'Fancy Dan', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Enforcers (comics)#Original members]]'}]}}

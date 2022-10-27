@@ -1,0 +1,1 @@
+{'67427212': {'pageid': 67427212, 'ns': 0, 'title': 'Battlestar (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Battlestar (character)]]\n\n{{Redirect category shell|\n{{R from alternative disambiguation}}\n{{R from move}}\n}}'}]}}

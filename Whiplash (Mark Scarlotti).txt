@@ -1,0 +1,1 @@
+{'55182917': {'pageid': 55182917, 'ns': 0, 'title': 'Whiplash (Mark Scarlotti)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Whiplash (Marvel Comics)#Mark Scarlotti]]'}]}}

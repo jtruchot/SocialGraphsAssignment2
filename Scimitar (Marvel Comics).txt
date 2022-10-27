@@ -1,0 +1,1 @@
+{'52320390': {'pageid': 52320390, 'ns': 0, 'title': 'Scimitar (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Scimitar (comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R from unnecessary disambiguation}}\n}}'}]}}

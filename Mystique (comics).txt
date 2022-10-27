@@ -1,0 +1,1 @@
+{'67919070': {'pageid': 67919070, 'ns': 0, 'title': 'Mystique (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Mystique (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

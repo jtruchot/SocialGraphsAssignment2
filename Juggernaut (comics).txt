@@ -1,0 +1,1 @@
+{'67732123': {'pageid': 67732123, 'ns': 0, 'title': 'Juggernaut (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Juggernaut (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

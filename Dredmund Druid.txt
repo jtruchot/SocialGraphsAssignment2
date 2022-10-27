@@ -1,0 +1,1 @@
+{'12722779': {'pageid': 12722779, 'ns': 0, 'title': 'Dredmund Druid', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Dredmund the Druid]]\n{{R from fictional character|Marvel Comics}}'}]}}

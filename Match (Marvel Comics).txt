@@ -1,0 +1,1 @@
+{'3663979': {'pageid': 3663979, 'ns': 0, 'title': 'Match (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[New X-Men (2004 series)]]\n\n{{Redirect category shell|\n{{R from merge}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

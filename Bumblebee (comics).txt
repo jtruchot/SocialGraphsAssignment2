@@ -1,0 +1,1 @@
+{'70475358': {'pageid': 70475358, 'ns': 0, 'title': 'Bumblebee (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Bumblebee (DC Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

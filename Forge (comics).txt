@@ -1,0 +1,1 @@
+{'67732152': {'pageid': 67732152, 'ns': 0, 'title': 'Forge (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Forge (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

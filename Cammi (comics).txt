@@ -1,0 +1,1 @@
+{'42356095': {'pageid': 42356095, 'ns': 0, 'title': 'Cammi (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Cammi (character)]]'}]}}

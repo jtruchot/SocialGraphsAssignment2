@@ -1,0 +1,1 @@
+{'6164540': {'pageid': 6164540, 'ns': 0, 'title': 'Rakkus', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: R]]'}]}}

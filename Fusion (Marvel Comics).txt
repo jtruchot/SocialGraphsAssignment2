@@ -1,0 +1,1 @@
+{'11661058': {'pageid': 11661058, 'ns': 0, 'title': 'Fusion (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Spider-Man enemies]]'}]}}

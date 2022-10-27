@@ -1,0 +1,1 @@
+{'6151635': {'pageid': 6151635, 'ns': 0, 'title': 'Fer-de-Lance (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': "#REDIRECT [[Serpent Society#Viper's agents]]\n\n{{Rcat shell|\n{{R to related topic}}\n{{R from fictional character|Marvel Comics}}\n}}"}]}}

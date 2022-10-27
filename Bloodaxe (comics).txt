@@ -1,0 +1,1 @@
+{'67730583': {'pageid': 67730583, 'ns': 0, 'title': 'Bloodaxe (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Bloodaxe (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

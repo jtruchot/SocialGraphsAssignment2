@@ -1,0 +1,1 @@
+{'39474372': {'pageid': 39474372, 'ns': 0, 'title': 'Friction (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[DP 7#Main characters]]'}]}}

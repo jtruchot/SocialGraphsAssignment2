@@ -1,0 +1,1 @@
+{'58949831': {'pageid': 58949831, 'ns': 0, 'title': 'Blank (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[West Coast Avengers]]'}]}}

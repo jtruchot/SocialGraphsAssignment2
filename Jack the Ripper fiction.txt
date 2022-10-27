@@ -1,0 +1,1 @@
+{'34081246': {'pageid': 34081246, 'ns': 0, 'title': 'Jack the Ripper fiction', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Jack the Ripper in fiction]]'}]}}

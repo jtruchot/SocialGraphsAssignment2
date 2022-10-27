@@ -1,0 +1,1 @@
+{'3524781': {'pageid': 3524781, 'ns': 0, 'title': 'J2 (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[A-Next#J2]]'}]}}

@@ -1,0 +1,1 @@
+{'3382169': {'pageid': 3382169, 'ns': 0, 'title': 'Gene Nation', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Morlocks (comics)#Africa.2FGene Nation]]\n\n{{R to section}}'}]}}

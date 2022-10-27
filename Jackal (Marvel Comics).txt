@@ -1,0 +1,1 @@
+{'61957507': {'pageid': 61957507, 'ns': 0, 'title': 'Jackal (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Jackal (Marvel Comics character)]]\n\n{{R from move}}'}]}}

@@ -1,0 +1,1 @@
+{'66044509': {'pageid': 66044509, 'ns': 0, 'title': 'Death Adder (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Death Adder (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

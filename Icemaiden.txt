@@ -1,0 +1,1 @@
+{'71148834': {'pageid': 71148834, 'ns': 0, 'title': 'Icemaiden', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Glacier (DC Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

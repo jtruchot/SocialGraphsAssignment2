@@ -1,0 +1,1 @@
+{'67730594': {'pageid': 67730594, 'ns': 0, 'title': 'Malice (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Malice (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

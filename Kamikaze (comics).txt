@@ -1,0 +1,1 @@
+{'6483908': {'pageid': 6483908, 'ns': 0, 'title': 'Kamikaze (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[New Mutants]]'}]}}

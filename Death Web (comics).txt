@@ -1,0 +1,1 @@
+{'17235044': {'pageid': 17235044, 'ns': 0, 'title': 'Death Web (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect[[List of Marvel Comics teams and organizations#D]] {{R to section}}'}]}}

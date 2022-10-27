@@ -1,0 +1,1 @@
+{'9642547': {'pageid': 9642547, 'ns': 0, 'title': 'Mad Dog Rassitano', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Spider-Girl (Mayday Parker)#Supporting cast]]'}]}}

@@ -1,0 +1,1 @@
+{'66931679': {'pageid': 66931679, 'ns': 0, 'title': 'Union Jack (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Union Jack (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'5344103': {'pageid': 5344103, 'ns': 0, 'title': 'Cell (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Morlocks (comics)#Chicago Morlocks]]'}]}}

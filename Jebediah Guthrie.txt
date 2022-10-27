@@ -1,0 +1,1 @@
+{'12045396': {'pageid': 12045396, 'ns': 0, 'title': 'Jebediah Guthrie', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Cannonball (Marvel Comics)]]'}]}}

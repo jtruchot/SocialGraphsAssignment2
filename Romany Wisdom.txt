@@ -1,0 +1,1 @@
+{'5495379': {'pageid': 5495379, 'ns': 0, 'title': 'Romany Wisdom', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Pete Wisdom]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

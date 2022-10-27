@@ -1,0 +1,1 @@
+{'52190206': {'pageid': 52190206, 'ns': 0, 'title': 'Vernon Fury', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Scorpio (Marvel Comics)#Scorpio (Vernon Fury)]]\n\n{{Redirect category shell|\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}\n\n{{DEFAULTSORT:Fury, Vernon}}\n[[Category:Nick Fury]]'}]}}

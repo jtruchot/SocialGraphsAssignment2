@@ -1,0 +1,1 @@
+{'4079028': {'pageid': 4079028, 'ns': 0, 'title': 'Preview (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[New X-Men (2004 series)]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

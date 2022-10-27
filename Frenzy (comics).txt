@@ -1,0 +1,1 @@
+{'1999499': {'pageid': 1999499, 'ns': 0, 'title': 'Frenzy (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Joanna Cargill]]\n\n{{Redirect category shell|1=\n{{R comics from alternative name}}\n}}'}]}}

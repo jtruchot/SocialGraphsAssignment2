@@ -1,0 +1,1 @@
+{'34141088': {'pageid': 34141088, 'ns': 0, 'title': 'Hex (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[ClanDestine#Dominic Destine (Hex)]]'}]}}

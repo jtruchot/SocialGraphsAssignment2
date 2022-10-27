@@ -1,0 +1,1 @@
+{'25165440': {'pageid': 25165440, 'ns': 0, 'title': 'Impulse (DC Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Bart Allen]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

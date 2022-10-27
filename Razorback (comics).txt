@@ -1,0 +1,1 @@
+{'70470630': {'pageid': 70470630, 'ns': 0, 'title': 'Razorback (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Razorback (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

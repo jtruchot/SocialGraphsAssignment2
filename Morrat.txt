@@ -1,0 +1,1 @@
+{'23298200': {'pageid': 23298200, 'ns': 0, 'title': 'Morrat', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Skrull#Known Skrulls]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

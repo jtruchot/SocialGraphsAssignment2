@@ -1,0 +1,1 @@
+{'67885291': {'pageid': 67885291, 'ns': 0, 'title': 'Marvelman', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Miracleman (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

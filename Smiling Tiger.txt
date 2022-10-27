@@ -1,0 +1,1 @@
+{'6432281': {'pageid': 6432281, 'ns': 0, 'title': 'Smiling Tiger', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[New Warriors#Folding Circle]]'}]}}

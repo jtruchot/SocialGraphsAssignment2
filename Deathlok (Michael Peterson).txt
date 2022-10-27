@@ -1,0 +1,1 @@
+{'57361052': {'pageid': 57361052, 'ns': 0, 'title': 'Deathlok (Michael Peterson)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Deathlok#In other media]]'}]}}

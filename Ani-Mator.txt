@@ -1,0 +1,1 @@
+{'7775630': {'pageid': 7775630, 'ns': 0, 'title': 'Ani-Mator', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[The Fall of the Mutants]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

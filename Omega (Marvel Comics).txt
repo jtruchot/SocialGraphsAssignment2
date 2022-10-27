@@ -1,0 +1,1 @@
+{'13611295': {'pageid': 13611295, 'ns': 0, 'title': 'Omega (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: O]]'}]}}

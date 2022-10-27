@@ -1,0 +1,1 @@
+{'70144829': {'pageid': 70144829, 'ns': 0, 'title': 'Lockheed (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Lockheed (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'2656327': {'pageid': 2656327, 'ns': 0, 'title': 'Red Shift (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Galactus#Heralds]]\n\n{{Rcat shell|\n{{R from fictional character|Marvel Comics}}\n{{R to section}}\n}}'}]}}

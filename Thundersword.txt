@@ -1,0 +1,1 @@
+{'59882089': {'pageid': 59882089, 'ns': 0, 'title': 'Thundersword', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Iron Man enemies#T]]'}]}}

@@ -1,0 +1,1 @@
+{'16976682': {'pageid': 16976682, 'ns': 0, 'title': 'KIA (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Michael Van Patrick#KIA|KIA]]\n\n{{Redirect category shell|1=\n{{R comics to section}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

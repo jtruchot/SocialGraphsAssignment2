@@ -1,0 +1,1 @@
+{'62343354': {'pageid': 62343354, 'ns': 0, 'title': 'MOR103', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Otilimab]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

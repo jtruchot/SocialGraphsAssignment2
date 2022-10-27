@@ -1,0 +1,1 @@
+{'66931765': {'pageid': 66931765, 'ns': 0, 'title': 'Eitri (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Eitri (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'55301399': {'pageid': 55301399, 'ns': 0, 'title': 'Kid Kaiju', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Inhumans#Kid Kaiju]]\n\n{{Rcat shell|\n{{R from fictional character|Comic}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'70470746': {'pageid': 70470746, 'ns': 0, 'title': 'Aries (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Aries (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

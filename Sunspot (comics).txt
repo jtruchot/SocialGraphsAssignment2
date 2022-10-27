@@ -1,0 +1,1 @@
+{'68147412': {'pageid': 68147412, 'ns': 0, 'title': 'Sunspot (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Sunspot (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

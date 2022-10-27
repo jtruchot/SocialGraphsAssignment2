@@ -1,0 +1,1 @@
+{'27638237': {'pageid': 27638237, 'ns': 0, 'title': 'Shriker', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: S]]'}]}}

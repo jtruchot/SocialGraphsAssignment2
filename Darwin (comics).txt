@@ -1,0 +1,1 @@
+{'62028241': {'pageid': 62028241, 'ns': 0, 'title': 'Darwin (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Darwin (character)]]\n\n{{R from move}}'}]}}

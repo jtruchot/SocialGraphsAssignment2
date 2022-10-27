@@ -1,0 +1,1 @@
+{'840954': {'pageid': 840954, 'ns': 0, 'title': 'L-Ron', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: L]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

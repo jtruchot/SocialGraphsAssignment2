@@ -1,0 +1,1 @@
+{'5638456': {'pageid': 5638456, 'ns': 0, 'title': "N'Garai", 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': "#Redirect [[List of Marvel Comics teams and organizations#N'Garai]]"}]}}

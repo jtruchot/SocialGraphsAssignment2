@@ -1,0 +1,1 @@
+{'70172095': {'pageid': 70172095, 'ns': 0, 'title': 'Gibbon (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Gibbon (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'9028376': {'pageid': 9028376, 'ns': 0, 'title': 'Grim Hunter', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Kraven the Hunter#Grim Hunter]]\n\n{{Rcat shell|\n{{R to section}}\n{{R to related topic}}\n{{R with history}}\n}}'}]}}

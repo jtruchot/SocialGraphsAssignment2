@@ -1,0 +1,1 @@
+{'4946864': {'pageid': 4946864, 'ns': 0, 'title': 'Ion (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Femizons]]'}]}}

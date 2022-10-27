@@ -1,0 +1,1 @@
+{'57745123': {'pageid': 57745123, 'ns': 0, 'title': 'Voice (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Hank Pym#Enemies]]'}]}}

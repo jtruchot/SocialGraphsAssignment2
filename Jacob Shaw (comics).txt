@@ -1,0 +1,1 @@
+{'10110905': {'pageid': 10110905, 'ns': 0, 'title': 'Jacob Shaw (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Sebastian Shaw (character)]]'}]}}

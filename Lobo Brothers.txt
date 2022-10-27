@@ -1,0 +1,1 @@
+{'4524562': {'pageid': 4524562, 'ns': 0, 'title': 'Lobo Brothers', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Spider-Man enemies#The Spectacular Spider-Man debuts]]'}]}}

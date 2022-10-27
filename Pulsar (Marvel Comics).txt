@@ -1,0 +1,1 @@
+{'1911577': {'pageid': 1911577, 'ns': 0, 'title': 'Pulsar (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: P#Pulsar]]'}]}}

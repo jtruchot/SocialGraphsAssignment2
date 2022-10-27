@@ -1,0 +1,1 @@
+{'67732097': {'pageid': 67732097, 'ns': 0, 'title': 'Cannonball (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Cannonball (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

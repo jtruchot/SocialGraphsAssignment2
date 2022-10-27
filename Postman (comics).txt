@@ -1,0 +1,1 @@
+{'3531851': {'pageid': 3531851, 'ns': 0, 'title': 'Postman (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Morlocks (comics)]]'}]}}

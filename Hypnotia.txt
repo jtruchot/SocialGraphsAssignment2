@@ -1,0 +1,1 @@
+{'7755042': {'pageid': 7755042, 'ns': 0, 'title': 'Hypnotia', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Iron Man (TV series)#First season]]'}]}}

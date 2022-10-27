@@ -1,0 +1,1 @@
+{'5344302': {'pageid': 5344302, 'ns': 0, 'title': 'Shatter (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Morlocks (comics)]]'}]}}

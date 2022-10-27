@@ -1,0 +1,1 @@
+{'62020147': {'pageid': 62020147, 'ns': 0, 'title': 'Pasco (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: P]]\n\n{{R from move}}'}]}}

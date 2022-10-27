@@ -1,0 +1,1 @@
+{'11456074': {'pageid': 11456074, 'ns': 0, 'title': 'Kid Omega', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Quentin Quire]]\n\n{{Redirect category shell|1=\n{{R comics from alternative name}}\n}}'}]}}

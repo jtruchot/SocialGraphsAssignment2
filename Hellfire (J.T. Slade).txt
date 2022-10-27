@@ -1,0 +1,1 @@
+{'56201825': {'pageid': 56201825, 'ns': 0, 'title': 'Hellfire (J.T. Slade)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Hellfire (J. T. Slade)]]\n\n{{R from move}}'}]}}

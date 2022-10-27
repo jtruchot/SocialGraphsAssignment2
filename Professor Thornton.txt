@@ -1,0 +1,1 @@
+{'34214327': {'pageid': 34214327, 'ns': 0, 'title': 'Professor Thornton', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT[[Professor Thorton]]\n{{R from fictional character|Marvel Comics}}'}]}}

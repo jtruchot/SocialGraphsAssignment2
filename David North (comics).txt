@@ -1,0 +1,1 @@
+{'68457251': {'pageid': 68457251, 'ns': 0, 'title': 'David North (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[David North (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

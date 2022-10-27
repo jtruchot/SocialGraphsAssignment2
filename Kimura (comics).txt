@@ -1,0 +1,1 @@
+{'60652066': {'pageid': 60652066, 'ns': 0, 'title': 'Kimura (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Kimura (character)]]\n\n{{R from move}}'}]}}

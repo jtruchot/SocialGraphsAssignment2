@@ -1,0 +1,1 @@
+{'4340257': {'pageid': 4340257, 'ns': 0, 'title': 'Kid Cassidy', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Gunhawks]]'}]}}

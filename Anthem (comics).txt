@@ -1,0 +1,1 @@
+{'48538903': {'pageid': 48538903, 'ns': 0, 'title': 'Anthem (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[The Order (comics)#Current members]]\n\n{{r to related topic}}'}]}}

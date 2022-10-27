@@ -1,0 +1,1 @@
+{'62020156': {'pageid': 62020156, 'ns': 0, 'title': 'Magician (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Magician (Marvel Comics)]]\n\n{{R from move}}'}]}}

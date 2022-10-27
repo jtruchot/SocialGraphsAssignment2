@@ -1,0 +1,1 @@
+{'70470608': {'pageid': 70470608, 'ns': 0, 'title': 'Portal (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Portal (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

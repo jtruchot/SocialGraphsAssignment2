@@ -1,0 +1,1 @@
+{'70470545': {'pageid': 70470545, 'ns': 0, 'title': 'Haywire (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Haywire (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

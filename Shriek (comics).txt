@@ -1,0 +1,1 @@
+{'61978668': {'pageid': 61978668, 'ns': 0, 'title': 'Shriek (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Shriek (character)]]\n\n{{R from move}}'}]}}

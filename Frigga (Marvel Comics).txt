@@ -1,0 +1,1 @@
+{'32780514': {'pageid': 32780514, 'ns': 0, 'title': 'Frigga (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Frigga (character)]]\n{{R from fictional character|Marvel Comics}}'}]}}

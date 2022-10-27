@@ -1,0 +1,1 @@
+{'5650181': {'pageid': 5650181, 'ns': 0, 'title': 'Skornn', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: S]]'}]}}

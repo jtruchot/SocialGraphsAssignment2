@@ -1,0 +1,1 @@
+{'66634427': {'pageid': 66634427, 'ns': 0, 'title': 'Mister Fantastic', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Reed Richards]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

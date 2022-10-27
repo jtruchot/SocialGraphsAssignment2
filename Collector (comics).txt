@@ -1,0 +1,1 @@
+{'64114374': {'pageid': 64114374, 'ns': 0, 'title': 'Collector (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Collector (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

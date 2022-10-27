@@ -1,0 +1,1 @@
+{'5366818': {'pageid': 5366818, 'ns': 0, 'title': 'Stinger (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Alliance of Evil]]'}]}}

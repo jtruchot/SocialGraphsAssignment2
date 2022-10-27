@@ -1,0 +1,1 @@
+{'68377804': {'pageid': 68377804, 'ns': 0, 'title': 'Lionheart (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Lionheart (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

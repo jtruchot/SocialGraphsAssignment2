@@ -1,0 +1,1 @@
+{'70470483': {'pageid': 70470483, 'ns': 0, 'title': 'Brain Drain (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Brain Drain (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

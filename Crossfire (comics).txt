@@ -1,0 +1,1 @@
+{'5548142': {'pageid': 5548142, 'ns': 0, 'title': 'Crossfire (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Hawkeye supporting characters#Enemies]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

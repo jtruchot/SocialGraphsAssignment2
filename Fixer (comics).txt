@@ -1,0 +1,1 @@
+{'68219813': {'pageid': 68219813, 'ns': 0, 'title': 'Fixer (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Fixer (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

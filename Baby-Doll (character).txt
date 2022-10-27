@@ -1,0 +1,1 @@
+{'70864231': {'pageid': 70864231, 'ns': 0, 'title': 'Baby-Doll (character)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Batman: The Animated Series]]'}]}}

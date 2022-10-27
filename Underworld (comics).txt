@@ -1,0 +1,1 @@
+{'58373867': {'pageid': 58373867, 'ns': 0, 'title': 'Underworld (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Frank Tieri (writer)]]'}]}}

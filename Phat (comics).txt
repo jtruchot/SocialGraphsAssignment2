@@ -1,0 +1,1 @@
+{'2456235': {'pageid': 2456235, 'ns': 0, 'title': 'Phat (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[X-Statix]]'}]}}

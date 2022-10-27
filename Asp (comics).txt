@@ -1,0 +1,1 @@
+{'66044520': {'pageid': 66044520, 'ns': 0, 'title': 'Asp (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Asp (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

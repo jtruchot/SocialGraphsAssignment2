@@ -1,0 +1,1 @@
+{'5359322': {'pageid': 5359322, 'ns': 0, 'title': 'Dirk Anger', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Nextwave]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

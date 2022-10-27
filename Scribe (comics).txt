@@ -1,0 +1,1 @@
+{'14630460': {'pageid': 14630460, 'ns': 0, 'title': 'Scribe (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Hellfire Club (comics)]]'}]}}

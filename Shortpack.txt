@@ -1,0 +1,1 @@
+{'5804080': {'pageid': 5804080, 'ns': 0, 'title': 'Shortpack', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Fantomex#Weapon X and Mystique]]'}]}}

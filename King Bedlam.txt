@@ -1,0 +1,1 @@
+{'58276029': {'pageid': 58276029, 'ns': 0, 'title': 'King Bedlam', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Bedlam (comics)]]'}]}}

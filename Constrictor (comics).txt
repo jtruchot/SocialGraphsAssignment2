@@ -1,0 +1,1 @@
+{'66098431': {'pageid': 66098431, 'ns': 0, 'title': 'Constrictor (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Constrictor (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

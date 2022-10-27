@@ -1,0 +1,1 @@
+{'71616960': {'pageid': 71616960, 'ns': 0, 'title': 'Toad (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Toad (disambiguation)]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R from incomplete dab}}\n}}'}]}}

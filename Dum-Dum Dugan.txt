@@ -1,0 +1,1 @@
+{'5865172': {'pageid': 5865172, 'ns': 0, 'title': 'Dum-Dum Dugan', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Dum Dum Dugan]]\n{{R from fictional character|Marvel Comics}}'}]}}

@@ -1,0 +1,1 @@
+{'5972515': {'pageid': 5972515, 'ns': 0, 'title': 'Pretty Persuasions', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Psionex#Members]]\n\n{{Rcat shell|\n{{R from fictional character|Marvel Comics}}\n{{R to section}}\n}}'}]}}

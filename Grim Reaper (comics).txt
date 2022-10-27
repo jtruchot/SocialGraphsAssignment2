@@ -1,0 +1,1 @@
+{'68219826': {'pageid': 68219826, 'ns': 0, 'title': 'Grim Reaper (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Grim Reaper (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

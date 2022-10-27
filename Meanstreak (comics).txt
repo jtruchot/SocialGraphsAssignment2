@@ -1,0 +1,1 @@
+{'71498890': {'pageid': 71498890, 'ns': 0, 'title': 'Meanstreak (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Meanstreak (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

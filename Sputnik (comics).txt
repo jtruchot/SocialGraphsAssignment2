@@ -1,0 +1,1 @@
+{'18771489': {'pageid': 18771489, 'ns': 0, 'title': 'Sputnik (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Winter Guard]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

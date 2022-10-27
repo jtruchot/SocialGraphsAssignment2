@@ -1,0 +1,1 @@
+{'66931688': {'pageid': 66931688, 'ns': 0, 'title': 'Shocker (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Shocker (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

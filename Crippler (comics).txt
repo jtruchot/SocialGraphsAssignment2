@@ -1,0 +1,1 @@
+{'68196244': {'pageid': 68196244, 'ns': 0, 'title': 'Crippler (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Crippler (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

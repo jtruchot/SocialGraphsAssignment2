@@ -1,0 +1,1 @@
+{'66589118': {'pageid': 66589118, 'ns': 0, 'title': 'Mother Night (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Mother Night (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

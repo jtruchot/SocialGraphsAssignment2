@@ -1,0 +1,1 @@
+{'58265694': {'pageid': 58265694, 'ns': 0, 'title': 'Wildstreak', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of black superheroes]]'}]}}

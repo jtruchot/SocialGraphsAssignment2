@@ -1,0 +1,1 @@
+{'70470699': {'pageid': 70470699, 'ns': 0, 'title': 'Dakota North (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Dakota North (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

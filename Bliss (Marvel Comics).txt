@@ -1,0 +1,1 @@
+{'11266285': {'pageid': 11266285, 'ns': 0, 'title': 'Bliss (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Morlocks (comics)]]'}]}}

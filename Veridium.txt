@@ -1,0 +1,1 @@
+{'6525489': {'pageid': 6525489, 'ns': 0, 'title': 'Veridium', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Will Magnus]]\n\n{{Redirect category shell|\n{{R comics from alternative name}}\n}}'}]}}

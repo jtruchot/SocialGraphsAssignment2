@@ -1,0 +1,1 @@
+{'71330758': {'pageid': 71330758, 'ns': 0, 'title': 'Tombstone (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Tombstone (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

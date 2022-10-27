@@ -1,0 +1,1 @@
+{'6584987': {'pageid': 6584987, 'ns': 0, 'title': 'Lupo (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Savage Land Mutates]]'}]}}

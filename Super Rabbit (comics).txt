@@ -1,0 +1,1 @@
+{'13370612': {'pageid': 13370612, 'ns': 0, 'title': 'Super Rabbit (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Super Rabbit]]\n{{R from fictional character|Marvel Comics}}'}]}}

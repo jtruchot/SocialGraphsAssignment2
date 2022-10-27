@@ -1,0 +1,1 @@
+{'68602518': {'pageid': 68602518, 'ns': 0, 'title': 'Lizard (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Lizard (character)]]\n\n{{Redirect category shell|\n{{R from alternative disambiguation}}\n{{R from move}}\n}}'}]}}

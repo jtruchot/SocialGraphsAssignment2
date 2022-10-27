@@ -1,0 +1,1 @@
+{'61957497': {'pageid': 61957497, 'ns': 0, 'title': 'Rick Jones (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Rick Jones (character)]]\n\n{{Redirect category shell|\n{{R from alternative disambiguation}}\n{{R from move}}\n}}'}]}}

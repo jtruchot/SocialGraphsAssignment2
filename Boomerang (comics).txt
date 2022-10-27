@@ -1,0 +1,1 @@
+{'70171977': {'pageid': 70171977, 'ns': 0, 'title': 'Boomerang (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Boomerang (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

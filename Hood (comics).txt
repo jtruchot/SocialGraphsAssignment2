@@ -1,0 +1,1 @@
+{'70829470': {'pageid': 70829470, 'ns': 0, 'title': 'Hood (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[The Hood]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

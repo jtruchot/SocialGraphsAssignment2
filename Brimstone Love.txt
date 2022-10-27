@@ -1,0 +1,1 @@
+{'6646109': {'pageid': 6646109, 'ns': 0, 'title': 'Brimstone Love', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[X-Men 2099]]'}]}}

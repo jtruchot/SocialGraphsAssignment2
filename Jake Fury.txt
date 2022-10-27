@@ -1,0 +1,1 @@
+{'36011250': {'pageid': 36011250, 'ns': 0, 'title': 'Jake Fury', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Scorpio (Marvel Comics)#Scorpio (Jake Fury)]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}\n\n{{DEFAULTSORT:Fury, Jake}}\n[[Category:Nick Fury]]'}]}}

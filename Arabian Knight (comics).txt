@@ -1,0 +1,1 @@
+{'62028232': {'pageid': 62028232, 'ns': 0, 'title': 'Arabian Knight (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Arabian Knight (Marvel Comics)]]\n\n{{R from move}}'}]}}

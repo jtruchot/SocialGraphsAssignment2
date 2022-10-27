@@ -1,0 +1,1 @@
+{'32285964': {'pageid': 32285964, 'ns': 0, 'title': 'Jim Morita', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Sgt. Fury and his Howling Commandos#Characters]] {{R to section}}'}]}}

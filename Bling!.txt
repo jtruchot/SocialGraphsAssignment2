@@ -1,0 +1,1 @@
+{'2434505': {'pageid': 2434505, 'ns': 0, 'title': 'Bling!', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Xavier Institute students and staff]]\n\n{{Redirect category shell|\n{{R from fictional character|X-Men}}\n}}'}]}}

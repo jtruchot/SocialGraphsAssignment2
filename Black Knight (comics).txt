@@ -1,0 +1,1 @@
+{'61978582': {'pageid': 61978582, 'ns': 0, 'title': 'Black Knight (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Black Knight (Marvel Comics)]]\n\n{{R from move}}'}]}}

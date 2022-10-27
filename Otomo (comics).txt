@@ -1,0 +1,1 @@
+{'10267749': {'pageid': 10267749, 'ns': 0, 'title': 'Otomo (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: O]]'}]}}

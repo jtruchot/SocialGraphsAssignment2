@@ -1,0 +1,1 @@
+{'67730567': {'pageid': 67730567, 'ns': 0, 'title': 'Thunderball (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Thunderball (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'2119676': {'pageid': 2119676, 'ns': 0, 'title': 'Gardener (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#Redirect [[Elders of the Universe]]\n\n[[Category:Elders of the Universe]]'}]}}

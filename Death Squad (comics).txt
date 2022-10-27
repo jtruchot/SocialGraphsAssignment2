@@ -1,0 +1,1 @@
+{'6337211': {'pageid': 6337211, 'ns': 0, 'title': 'Death Squad (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect[[List_of_Marvel_Comics_teams_and_organizations#Death_Squad]]'}]}}

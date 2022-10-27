@@ -1,0 +1,1 @@
+{'1911497': {'pageid': 1911497, 'ns': 0, 'title': 'Oracle (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: O#Oracle]]'}]}}

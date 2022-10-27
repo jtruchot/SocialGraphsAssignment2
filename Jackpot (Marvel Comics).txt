@@ -1,0 +1,1 @@
+{'15173594': {'pageid': 15173594, 'ns': 0, 'title': 'Jackpot (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Jackpot (comics)]]\n{{R from fictional character|Marvel Comics}}'}]}}

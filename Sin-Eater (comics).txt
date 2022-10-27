@@ -1,0 +1,1 @@
+{'70172056': {'pageid': 70172056, 'ns': 0, 'title': 'Sin-Eater (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Sin-Eater (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

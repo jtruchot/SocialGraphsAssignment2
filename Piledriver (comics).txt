@@ -1,0 +1,1 @@
+{'67730580': {'pageid': 67730580, 'ns': 0, 'title': 'Piledriver (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Piledriver (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

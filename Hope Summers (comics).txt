@@ -1,0 +1,1 @@
+{'70144813': {'pageid': 70144813, 'ns': 0, 'title': 'Hope Summers (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Hope Summers (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

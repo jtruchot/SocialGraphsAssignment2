@@ -1,0 +1,1 @@
+{'68457231': {'pageid': 68457231, 'ns': 0, 'title': 'Chamber (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Chamber (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

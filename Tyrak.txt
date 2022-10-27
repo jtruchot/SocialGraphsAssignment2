@@ -1,0 +1,1 @@
+{'8293358': {'pageid': 8293358, 'ns': 0, 'title': 'Tyrak', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Homo mermanus]]'}]}}

@@ -1,0 +1,1 @@
+{'65084955': {'pageid': 65084955, 'ns': 0, 'title': 'Amygdala (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Amygdala (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

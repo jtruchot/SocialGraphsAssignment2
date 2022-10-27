@@ -1,0 +1,1 @@
+{'10845992': {'pageid': 10845992, 'ns': 0, 'title': 'Wysper', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[The Jury (comics)]]'}]}}

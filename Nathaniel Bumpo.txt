@@ -1,0 +1,1 @@
+{'54812369': {'pageid': 54812369, 'ns': 0, 'title': 'Nathaniel Bumpo', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Punisher supporting characters#Nathaniel Bumpo]]'}]}}

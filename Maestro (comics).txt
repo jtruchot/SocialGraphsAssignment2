@@ -1,0 +1,1 @@
+{'62019908': {'pageid': 62019908, 'ns': 0, 'title': 'Maestro (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Maestro (character)]]\n\n{{R from move}}'}]}}

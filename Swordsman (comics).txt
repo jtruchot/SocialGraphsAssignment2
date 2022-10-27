@@ -1,0 +1,1 @@
+{'68262641': {'pageid': 68262641, 'ns': 0, 'title': 'Swordsman (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Swordsman (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'62028273': {'pageid': 62028273, 'ns': 0, 'title': 'Gauntlet (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Gauntlet (Joseph Green)]]\n\n{{R from move}}'}]}}

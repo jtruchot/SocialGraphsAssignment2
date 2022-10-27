@@ -1,0 +1,1 @@
+{'65194021': {'pageid': 65194021, 'ns': 0, 'title': 'Robin (DC Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT[[Robin (character)]]'}]}}

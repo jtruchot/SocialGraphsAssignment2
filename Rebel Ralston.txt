@@ -1,0 +1,1 @@
+{'6926863': {'pageid': 6926863, 'ns': 0, 'title': 'Rebel Ralston', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Sgt. Fury and his Howling Commandos#Characters]]'}]}}

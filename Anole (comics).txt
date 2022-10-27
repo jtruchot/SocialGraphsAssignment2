@@ -1,0 +1,1 @@
+{'70470505': {'pageid': 70470505, 'ns': 0, 'title': 'Anole (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Anole (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

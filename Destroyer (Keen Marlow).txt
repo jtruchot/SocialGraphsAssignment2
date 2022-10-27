@@ -1,0 +1,1 @@
+{'47498443': {'pageid': 47498443, 'ns': 0, 'title': 'Destroyer (Keen Marlow)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Destroyer (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R from other disambiguation}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'6023895': {'pageid': 6023895, 'ns': 0, 'title': 'Shrew (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics teams and organizations]]'}]}}

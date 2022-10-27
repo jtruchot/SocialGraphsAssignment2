@@ -1,0 +1,1 @@
+{'15042947': {'pageid': 15042947, 'ns': 0, 'title': 'Geiger (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Avengers: The Initiative]]'}]}}

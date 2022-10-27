@@ -1,0 +1,1 @@
+{'27685406': {'pageid': 27685406, 'ns': 0, 'title': 'Steel Wind', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Ghost Rider#Enemies]]\n\n{{R from fictional character|Marvel Comics}}'}]}}

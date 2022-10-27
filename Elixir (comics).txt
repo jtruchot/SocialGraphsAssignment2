@@ -1,0 +1,1 @@
+{'70470533': {'pageid': 70470533, 'ns': 0, 'title': 'Elixir (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Elixir (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

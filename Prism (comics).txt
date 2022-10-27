@@ -1,0 +1,1 @@
+{'67867104': {'pageid': 67867104, 'ns': 0, 'title': 'Prism (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Prism (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

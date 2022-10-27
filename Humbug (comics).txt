@@ -1,0 +1,1 @@
+{'70172041': {'pageid': 70172041, 'ns': 0, 'title': 'Humbug (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Humbug (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

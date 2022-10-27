@@ -1,0 +1,1 @@
+{'1310812': {'pageid': 1310812, 'ns': 0, 'title': 'Sentry (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Sentry (Robert Reynolds)]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

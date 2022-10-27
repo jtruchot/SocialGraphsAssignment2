@@ -1,0 +1,1 @@
+{'6132219': {'pageid': 6132219, 'ns': 0, 'title': 'Ooze (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[X-Statix]]\n{{R from fictional character|Marvel Comics}}'}]}}

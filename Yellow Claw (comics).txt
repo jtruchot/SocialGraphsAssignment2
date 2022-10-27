@@ -1,0 +1,1 @@
+{'70470492': {'pageid': 70470492, 'ns': 0, 'title': 'Yellow Claw (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Yellow Claw (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

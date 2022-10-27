@@ -1,0 +1,1 @@
+{'65133237': {'pageid': 65133237, 'ns': 0, 'title': 'Black Thorn (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Black Thorn (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

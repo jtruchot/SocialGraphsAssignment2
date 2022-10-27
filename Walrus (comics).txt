@@ -1,0 +1,1 @@
+{'64023945': {'pageid': 64023945, 'ns': 0, 'title': 'Walrus (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Walrus (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

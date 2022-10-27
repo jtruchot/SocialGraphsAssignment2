@@ -1,0 +1,1 @@
+{'60632662': {'pageid': 60632662, 'ns': 0, 'title': 'Northstar (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Northstar (character)]]\n\n{{Redirect category shell|\n{{R from unnecessary disambiguation}}\n}}'}]}}

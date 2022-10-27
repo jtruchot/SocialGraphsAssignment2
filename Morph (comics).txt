@@ -1,0 +1,1 @@
+{'16899923': {'pageid': 16899923, 'ns': 0, 'title': 'Morph (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Kevin Sydney]]\n\n{{Redirect category shell|1=\n{{R comics from alternative name}}\n}}'}]}}

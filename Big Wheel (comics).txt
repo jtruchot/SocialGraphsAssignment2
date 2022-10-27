@@ -1,0 +1,1 @@
+{'70172101': {'pageid': 70172101, 'ns': 0, 'title': 'Big Wheel (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Big Wheel (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

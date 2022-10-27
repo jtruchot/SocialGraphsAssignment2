@@ -1,0 +1,1 @@
+{'7368682': {'pageid': 7368682, 'ns': 0, 'title': 'Gorgolla', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of monsters in Marvel Comics]]'}]}}

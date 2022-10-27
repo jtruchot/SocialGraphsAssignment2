@@ -1,0 +1,1 @@
+{'11765653': {'pageid': 11765653, 'ns': 0, 'title': 'Bird-Man', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Ani-Men]]'}]}}

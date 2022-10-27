@@ -1,0 +1,1 @@
+{'9600787': {'pageid': 9600787, 'ns': 0, 'title': 'Noble Kale', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Ghost Rider#Noble Kale]]'}]}}

@@ -1,0 +1,1 @@
+{'58467011': {'pageid': 58467011, 'ns': 0, 'title': 'Phone Ranger', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Scourge of the Underworld]]'}]}}

@@ -1,0 +1,1 @@
+{'65455908': {'pageid': 65455908, 'ns': 0, 'title': 'Wasp (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Wasp (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

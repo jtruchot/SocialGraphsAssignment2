@@ -1,0 +1,1 @@
+{'70143937': {'pageid': 70143937, 'ns': 0, 'title': 'Blink (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Blink (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

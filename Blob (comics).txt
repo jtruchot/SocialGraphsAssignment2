@@ -1,0 +1,1 @@
+{'18523708': {'pageid': 18523708, 'ns': 0, 'title': 'Blob (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Blob (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R from other disambiguation}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

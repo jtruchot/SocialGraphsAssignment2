@@ -1,0 +1,1 @@
+{'67732157': {'pageid': 67732157, 'ns': 0, 'title': 'Forgotten One (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Forgotten One (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

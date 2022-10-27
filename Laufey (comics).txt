@@ -1,0 +1,1 @@
+{'66931672': {'pageid': 66931672, 'ns': 0, 'title': 'Laufey (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Laufey (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

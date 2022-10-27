@@ -1,0 +1,1 @@
+{'67730586': {'pageid': 67730586, 'ns': 0, 'title': 'Bulldozer (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Bulldozer (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

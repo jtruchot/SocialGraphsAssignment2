@@ -1,0 +1,1 @@
+{'23013834': {'pageid': 23013834, 'ns': 0, 'title': 'Kull (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Kull of Atlantis#Comics]]\n\n[[Category:2008 comics debuts]]\n[[Category:Comics based on works by Robert E. Howard]]\n[[Category:Dark Horse Comics titles]]\n[[Category:Marvel Comics titles]]'}]}}

@@ -1,0 +1,1 @@
+{'12443248': {'pageid': 12443248, 'ns': 0, 'title': 'Slash (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Sin (Marvel Comics)]]'}]}}

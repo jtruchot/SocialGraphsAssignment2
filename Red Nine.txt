@@ -1,0 +1,1 @@
+{'15034202': {'pageid': 15034202, 'ns': 0, 'title': 'Red Nine', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Avengers: The Initiative]]'}]}}

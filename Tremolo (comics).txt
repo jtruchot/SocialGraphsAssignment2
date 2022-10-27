@@ -1,0 +1,1 @@
+{'6604598': {'pageid': 6604598, 'ns': 0, 'title': 'Tremolo (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics teams and organizations]]'}]}}

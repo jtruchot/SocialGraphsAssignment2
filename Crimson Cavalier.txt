@@ -1,0 +1,1 @@
+{'13874476': {'pageid': 13874476, 'ns': 0, 'title': 'Crimson Cavalier', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics teams and organizations]]\n{{R from fictional character|Marvel Comics}}'}]}}

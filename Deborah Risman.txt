@@ -1,0 +1,1 @@
+{'7532304': {'pageid': 7532304, 'ns': 0, 'title': 'Deborah Risman', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of X-Men: Evolution characters#Other characters]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|X-Men}}\n}}'}]}}

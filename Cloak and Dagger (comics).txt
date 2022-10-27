@@ -1,0 +1,1 @@
+{'67732101': {'pageid': 67732101, 'ns': 0, 'title': 'Cloak and Dagger (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Cloak and Dagger (characters)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

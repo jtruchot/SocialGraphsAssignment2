@@ -1,0 +1,1 @@
+{'9658878': {'pageid': 9658878, 'ns': 0, 'title': 'Shathra', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Spider-Man enemies]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

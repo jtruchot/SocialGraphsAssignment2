@@ -1,0 +1,1 @@
+{'68429640': {'pageid': 68429640, 'ns': 0, 'title': 'Nightcrawler (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Nightcrawler (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

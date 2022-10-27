@@ -1,0 +1,1 @@
+{'67733626': {'pageid': 67733626, 'ns': 0, 'title': 'Siege (John Kelly)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Siege (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'22362536': {'pageid': 22362536, 'ns': 0, 'title': 'Romulus (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Romulus (comics)]]\n\n{{Redirect category shell|\n{{R from unnecessary disambiguation}}\n}}'}]}}

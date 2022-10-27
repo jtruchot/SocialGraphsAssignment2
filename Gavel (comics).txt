@@ -1,0 +1,1 @@
+{'10853141': {'pageid': 10853141, 'ns': 0, 'title': 'Gavel (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#Redirect [[The Jury (comics)]]\n{{R from fictional character|Marvel Comics}}'}]}}

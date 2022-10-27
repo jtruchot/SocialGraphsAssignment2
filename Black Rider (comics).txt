@@ -1,0 +1,1 @@
+{'67730398': {'pageid': 67730398, 'ns': 0, 'title': 'Black Rider (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Black Rider (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

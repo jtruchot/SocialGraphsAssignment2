@@ -1,0 +1,1 @@
+{'66733002': {'pageid': 66733002, 'ns': 0, 'title': 'Quicksilver (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Quicksilver (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

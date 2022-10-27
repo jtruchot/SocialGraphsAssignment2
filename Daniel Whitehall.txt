@@ -1,0 +1,1 @@
+{'65525777': {'pageid': 65525777, 'ns': 0, 'title': 'Daniel Whitehall', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#Redirect [[List of Marvel Comics characters: D#Daniel Whitehall]]'}]}}

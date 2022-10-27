@@ -1,0 +1,1 @@
+{'68602655': {'pageid': 68602655, 'ns': 0, 'title': 'John Jameson (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[John Jameson (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

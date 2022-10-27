@@ -1,0 +1,1 @@
+{'55597416': {'pageid': 55597416, 'ns': 0, 'title': 'Cottonmouth (Cornell Cottonmouth)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Cottonmouth (Cornell Stokes)]]\n\n{{R from move}}'}]}}

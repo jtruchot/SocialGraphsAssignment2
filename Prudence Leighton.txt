@@ -1,0 +1,1 @@
+{'6426072': {'pageid': 6426072, 'ns': 0, 'title': 'Prudence Leighton', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Mystique (character)]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'68513074': {'pageid': 68513074, 'ns': 0, 'title': 'Kro (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Kro (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'5510272': {'pageid': 5510272, 'ns': 0, 'title': "D'Ken", 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': "#REDIRECT [[Shi'ar#Known Shi'ar]]"}]}}

@@ -1,0 +1,1 @@
+{'66135519': {'pageid': 66135519, 'ns': 0, 'title': 'Avalanche (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Avalanche (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

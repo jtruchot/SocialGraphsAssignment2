@@ -1,0 +1,1 @@
+{'56954033': {'pageid': 56954033, 'ns': 0, 'title': 'Creeper (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Creeper (DC Comics)]]\n\n{{R from move}}'}]}}

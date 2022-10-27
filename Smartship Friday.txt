@@ -1,0 +1,1 @@
+{'10361543': {'pageid': 10361543, 'ns': 0, 'title': 'Smartship Friday', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Power Pack]]'}]}}

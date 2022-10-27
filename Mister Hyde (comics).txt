@@ -1,0 +1,1 @@
+{'71368882': {'pageid': 71368882, 'ns': 0, 'title': 'Mister Hyde (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Dr. Jekyll and Mr. Hyde (character)#Comics]]'}]}}

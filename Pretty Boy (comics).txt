@@ -1,0 +1,1 @@
+{'19731917': {'pageid': 19731917, 'ns': 0, 'title': 'Pretty Boy (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Reavers (comics)]]'}]}}

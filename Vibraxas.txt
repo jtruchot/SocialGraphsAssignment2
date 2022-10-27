@@ -1,0 +1,1 @@
+{'2152508': {'pageid': 2152508, 'ns': 0, 'title': 'Vibraxas', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Fantastic Four#Spinoffs]]\n{{R from fictional character|Marvel Comics}}'}]}}

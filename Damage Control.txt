@@ -1,0 +1,1 @@
+{'6988179': {'pageid': 6988179, 'ns': 0, 'title': 'Damage Control', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Damage control]] {{R from other capitalisation}}'}]}}

@@ -1,0 +1,1 @@
+{'6816888': {'pageid': 6816888, 'ns': 0, 'title': 'Gibborim (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Runaways (comics)]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

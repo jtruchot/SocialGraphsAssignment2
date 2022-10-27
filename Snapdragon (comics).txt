@@ -1,0 +1,1 @@
+{'7532887': {'pageid': 7532887, 'ns': 0, 'title': 'Snapdragon (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Black Widow supporting characters]]'}]}}

@@ -1,0 +1,1 @@
+{'64114319': {'pageid': 64114319, 'ns': 0, 'title': 'Jane Foster (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Jane Foster]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'66730284': {'pageid': 66730284, 'ns': 0, 'title': 'Wiccan (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Wiccan (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

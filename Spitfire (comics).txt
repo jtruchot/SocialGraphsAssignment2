@@ -1,0 +1,1 @@
+{'70441972': {'pageid': 70441972, 'ns': 0, 'title': 'Spitfire (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Spitfire (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

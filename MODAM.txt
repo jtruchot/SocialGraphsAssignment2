@@ -1,0 +1,1 @@
+{'67913297': {'pageid': 67913297, 'ns': 0, 'title': 'MODAM', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Maria Pym]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

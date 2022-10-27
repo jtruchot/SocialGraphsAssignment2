@@ -1,0 +1,1 @@
+{'25722449': {'pageid': 25722449, 'ns': 0, 'title': 'Victoria Hand (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Victoria Hand]]\n{{R from fictional character|Marvel Comics}}'}]}}

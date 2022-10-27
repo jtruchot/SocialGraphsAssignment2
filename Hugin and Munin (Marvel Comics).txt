@@ -1,0 +1,1 @@
+{'67732014': {'pageid': 67732014, 'ns': 0, 'title': 'Hugin and Munin (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Hugin and Munin (characters)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

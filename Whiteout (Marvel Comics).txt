@@ -1,0 +1,1 @@
+{'8379290': {'pageid': 8379290, 'ns': 0, 'title': 'Whiteout (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Savage Land Mutates#Whiteout]]'}]}}

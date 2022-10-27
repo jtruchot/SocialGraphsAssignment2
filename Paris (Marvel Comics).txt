@@ -1,0 +1,1 @@
+{'14384812': {'pageid': 14384812, 'ns': 0, 'title': 'Paris (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Pantheon (Marvel Comics)]]'}]}}

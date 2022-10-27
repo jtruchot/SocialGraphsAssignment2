@@ -1,0 +1,1 @@
+{'6801567': {'pageid': 6801567, 'ns': 0, 'title': 'Bulwark (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Hellions (Marvel Comics)]]'}]}}

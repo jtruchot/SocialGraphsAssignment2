@@ -1,0 +1,1 @@
+{'70172099': {'pageid': 70172099, 'ns': 0, 'title': 'Foreigner (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Foreigner (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

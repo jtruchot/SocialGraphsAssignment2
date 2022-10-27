@@ -1,0 +1,1 @@
+{'58469086': {'pageid': 58469086, 'ns': 0, 'title': 'Paradigm (comics character)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Hellions (Marvel Comics)]]'}]}}

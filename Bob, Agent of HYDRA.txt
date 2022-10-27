@@ -1,0 +1,1 @@
+{'42584538': {'pageid': 42584538, 'ns': 0, 'title': 'Bob, Agent of HYDRA', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Bob, Agent of Hydra]]\n\n{{Redirect category shell|\n{{R from modification}}\n{{R from move}}\n}}'}]}}

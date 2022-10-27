@@ -1,0 +1,1 @@
+{'66044527': {'pageid': 66044527, 'ns': 0, 'title': 'Rattler (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Rattler (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

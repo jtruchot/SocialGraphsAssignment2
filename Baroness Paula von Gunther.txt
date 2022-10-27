@@ -1,0 +1,1 @@
+{'6720680': {'pageid': 6720680, 'ns': 0, 'title': 'Baroness Paula von Gunther', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Paula von Gunther]]\n\n{{Redirect category shell|1=\n{{R from long name}}\n}}'}]}}

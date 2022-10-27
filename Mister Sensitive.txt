@@ -1,0 +1,1 @@
+{'1899410': {'pageid': 1899410, 'ns': 0, 'title': 'Mister Sensitive', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[X-Statix]]\n\n{{Redirect category shell|\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

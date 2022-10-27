@@ -1,0 +1,1 @@
+{'62028217': {'pageid': 62028217, 'ns': 0, 'title': 'Amatsu-Mikaboshi (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Amatsu-Mikaboshi (character)]]\n\n{{R from move}}'}]}}

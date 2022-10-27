@@ -1,0 +1,1 @@
+{'67427192': {'pageid': 67427192, 'ns': 0, 'title': 'Montana (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Montana (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

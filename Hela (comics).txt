@@ -1,0 +1,1 @@
+{'66931694': {'pageid': 66931694, 'ns': 0, 'title': 'Hela (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Hela (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

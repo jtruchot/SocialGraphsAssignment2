@@ -1,0 +1,1 @@
+{'5547791': {'pageid': 5547791, 'ns': 0, 'title': 'Burner (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[New Mutants]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

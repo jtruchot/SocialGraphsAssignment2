@@ -1,0 +1,1 @@
+{'3822150': {'pageid': 3822150, 'ns': 0, 'title': 'Ruckus (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Nasty Boys#Ruckus]]\n\n{{Redirect category shell|1=\n{{R from related topic}}\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

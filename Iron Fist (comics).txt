@@ -1,0 +1,1 @@
+{'68645962': {'pageid': 68645962, 'ns': 0, 'title': 'Iron Fist (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Iron Fist (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

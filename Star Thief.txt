@@ -1,0 +1,1 @@
+{'9483652': {'pageid': 9483652, 'ns': 0, 'title': 'Star Thief', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[New Warriors#Enemies]]'}]}}

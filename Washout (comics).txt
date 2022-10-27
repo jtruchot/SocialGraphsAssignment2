@@ -1,0 +1,1 @@
+{'68457271': {'pageid': 68457271, 'ns': 0, 'title': 'Washout (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Washout (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

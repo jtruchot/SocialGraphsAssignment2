@@ -1,0 +1,1 @@
+{'67731957': {'pageid': 67731957, 'ns': 0, 'title': 'Heimdall (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Heimdall (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

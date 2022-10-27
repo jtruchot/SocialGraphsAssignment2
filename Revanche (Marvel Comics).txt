@@ -1,0 +1,1 @@
+{'2148883': {'pageid': 2148883, 'ns': 0, 'title': 'Revanche (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Kwannon (character)]]\n\n{{Redirect category shell|\n{{R from other disambiguation}}\n{{R from move}}\n}}'}]}}

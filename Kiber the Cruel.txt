@@ -1,0 +1,1 @@
+{'59916107': {'pageid': 59916107, 'ns': 0, 'title': 'Kiber the Cruel', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Black Panther supporting characters]]'}]}}

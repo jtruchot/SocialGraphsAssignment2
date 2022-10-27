@@ -1,0 +1,1 @@
+{'32631937': {'pageid': 32631937, 'ns': 0, 'title': 'Spider-Man (Miles Morales)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Miles Morales]]\n{{R from fictional character|Marvel Comics}}\n{{R from alternative name}}'}]}}

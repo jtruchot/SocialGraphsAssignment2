@@ -1,0 +1,1 @@
+{'61969508': {'pageid': 61969508, 'ns': 0, 'title': 'Ventriloquist (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Ventriloquist (character)]]\n\n{{R from move}}'}]}}

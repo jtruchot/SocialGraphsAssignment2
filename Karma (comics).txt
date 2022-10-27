@@ -1,0 +1,1 @@
+{'70144801': {'pageid': 70144801, 'ns': 0, 'title': 'Karma (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Karma (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

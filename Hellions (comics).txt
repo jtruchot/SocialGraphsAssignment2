@@ -1,0 +1,1 @@
+{'30357316': {'pageid': 30357316, 'ns': 0, 'title': 'Hellions (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Hellions (Marvel Comics)]]\n{{R from fictional character|Marvel Comics}}'}]}}

@@ -1,0 +1,1 @@
+{'67625973': {'pageid': 67625973, 'ns': 0, 'title': 'Taskmaster (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Taskmaster (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R from incorrect disambiguation}}\n}}'}]}}

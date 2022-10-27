@@ -1,0 +1,1 @@
+{'58286986': {'pageid': 58286986, 'ns': 0, 'title': 'Tenebrous (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: A#Aegis]]'}]}}

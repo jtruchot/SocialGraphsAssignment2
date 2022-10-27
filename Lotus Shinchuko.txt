@@ -1,0 +1,1 @@
+{'10382924': {'pageid': 10382924, 'ns': 0, 'title': 'Lotus Shinchuko', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[The Deadly Hands of Kung Fu#The Sons of the Tiger]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

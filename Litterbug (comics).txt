@@ -1,0 +1,1 @@
+{'5344004': {'pageid': 5344004, 'ns': 0, 'title': 'Litterbug (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Morlocks (comics)]]'}]}}

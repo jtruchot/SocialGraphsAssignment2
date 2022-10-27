@@ -1,0 +1,1 @@
+{'70470737': {'pageid': 70470737, 'ns': 0, 'title': 'Taurus (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Taurus (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

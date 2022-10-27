@@ -1,0 +1,1 @@
+{'24192843': {'pageid': 24192843, 'ns': 0, 'title': 'Foxbat (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of X-Men enemies#List of members]]\n\n{{Redirect category shell|\n{{R from fictional character|X-Men}}\n}}'}]}}

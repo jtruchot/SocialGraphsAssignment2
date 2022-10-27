@@ -1,0 +1,1 @@
+{'26224034': {'pageid': 26224034, 'ns': 0, 'title': 'Skinner (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: S]]'}]}}

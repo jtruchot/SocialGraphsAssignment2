@@ -1,0 +1,1 @@
+{'67730206': {'pageid': 67730206, 'ns': 0, 'title': 'Angela (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Angela (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

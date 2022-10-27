@@ -1,0 +1,1 @@
+{'67867086': {'pageid': 67867086, 'ns': 0, 'title': 'Flatman (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Flatman (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

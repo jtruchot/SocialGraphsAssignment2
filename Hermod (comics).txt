@@ -1,0 +1,1 @@
+{'5623931': {'pageid': 5623931, 'ns': 0, 'title': 'Hermod (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Asgard (comics)#The six races]]'}]}}

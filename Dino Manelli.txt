@@ -1,0 +1,1 @@
+{'6926839': {'pageid': 6926839, 'ns': 0, 'title': 'Dino Manelli', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Sgt. Fury and his Howling Commandos#Characters]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

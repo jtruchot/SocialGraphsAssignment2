@@ -1,0 +1,1 @@
+{'2478698': {'pageid': 2478698, 'ns': 0, 'title': 'Celestials (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Celestial (comics)]]\n\n{{Redirect category shell|\n{{R from plural}}\n}}'}]}}

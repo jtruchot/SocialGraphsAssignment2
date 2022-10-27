@@ -1,0 +1,1 @@
+{'1911557': {'pageid': 1911557, 'ns': 0, 'title': 'Magique', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: M#Magique]]'}]}}

@@ -1,0 +1,1 @@
+{'66167470': {'pageid': 66167470, 'ns': 0, 'title': 'Armor (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Armor (Marvel Comics character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

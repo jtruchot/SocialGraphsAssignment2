@@ -1,0 +1,1 @@
+{'22191740': {'pageid': 22191740, 'ns': 0, 'title': 'Huntsman (Cephalus)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Olympians (Marvel Comics)]]'}]}}

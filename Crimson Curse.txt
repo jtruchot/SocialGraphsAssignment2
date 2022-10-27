@@ -1,0 +1,1 @@
+{'5263900': {'pageid': 5263900, 'ns': 0, 'title': 'Crimson Curse', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[A-Next#Crimson Curse]]\n\n{{r to section}}'}]}}

@@ -1,0 +1,1 @@
+{'66931763': {'pageid': 66931763, 'ns': 0, 'title': 'Starhawk (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Starhawk (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'5624014': {'pageid': 5624014, 'ns': 0, 'title': 'Idunn (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Asgard (comics)]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

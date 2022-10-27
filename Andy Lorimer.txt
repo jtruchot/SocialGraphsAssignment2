@@ -1,0 +1,1 @@
+{'55418938': {'pageid': 55418938, 'ns': 0, 'title': 'Andy Lorimer', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Punisher supporting characters#Andy Lorimer]]'}]}}

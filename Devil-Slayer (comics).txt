@@ -1,0 +1,1 @@
+{'13278944': {'pageid': 13278944, 'ns': 0, 'title': 'Devil-Slayer (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Devil-Slayer]]\n{{R from fictional character|Marvel Comics}}'}]}}

@@ -1,0 +1,1 @@
+{'5752013': {'pageid': 5752013, 'ns': 0, 'title': 'Scorpia (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Scorpion (Marvel Comics)#Elaine Coll]]\n\n{{r from merge}}'}]}}

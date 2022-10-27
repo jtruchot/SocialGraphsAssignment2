@@ -1,0 +1,1 @@
+{'70470526': {'pageid': 70470526, 'ns': 0, 'title': 'Doop (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Doop (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

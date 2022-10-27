@@ -1,0 +1,1 @@
+{'67730563': {'pageid': 67730563, 'ns': 0, 'title': 'Surtur (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Surtur (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

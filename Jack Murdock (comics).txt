@@ -1,0 +1,1 @@
+{'70470682': {'pageid': 70470682, 'ns': 0, 'title': 'Jack Murdock (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Jack Murdock (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

@@ -1,0 +1,1 @@
+{'70562866': {'pageid': 70562866, 'ns': 0, 'title': 'Firestar (Marvel Comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Firestar (Marvel Comics character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

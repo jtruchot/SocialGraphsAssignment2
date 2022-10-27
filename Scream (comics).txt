@@ -1,0 +1,1 @@
+{'70172023': {'pageid': 70172023, 'ns': 0, 'title': 'Scream (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Scream (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

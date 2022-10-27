@@ -1,0 +1,1 @@
+{'13767942': {'pageid': 13767942, 'ns': 0, 'title': 'Stunt-Master (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List_of_Daredevil_enemies#S]]'}]}}

@@ -1,0 +1,1 @@
+{'5344204': {'pageid': 5344204, 'ns': 0, 'title': 'Angel Dust (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Morlocks (comics)#Chicago Morlocks]]'}]}}

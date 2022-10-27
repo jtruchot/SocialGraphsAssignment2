@@ -1,0 +1,1 @@
+{'70171971': {'pageid': 70171971, 'ns': 0, 'title': 'Puma (comics)', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Puma (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}
